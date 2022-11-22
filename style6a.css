@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    }
+    h2{
+    margin-top: 0 ;
+    }
+    .top{
+    background-color: rgb(255, 0, 0)
+    }
+    .middle{
+    background-color: rgb(0, 13, 250);
+    width: 300px;
+    height: 300px;
+    padding: 28px;
+    border: 10px;
+    border-style: solid;
+    margin-left: 100px;
+    border-color: black;
+    }
+    .bottom{
+    background-color: rgba(242, 0, 255, 0.688);
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    border-color: rgb(0, 255, 225);
+    border: 50px;
+    margin-left: 500px;
+    }
+    .second{
+    padding: 50px;
+    }

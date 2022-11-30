@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='ex8.xsl'?>
+<catalog>
+<cd>
+<studentname>K KRISHNA MURTHY</studentname>
+<marks>87</marks>
+</cd>
+<cd>
+<studentname>AMAR</studentname>
+<marks>73</marks>
+</cd>
+<cd>
+<studentname>MONSIJ</studentname>
+<marks>78</marks>
+</cd>
+<cd>
+<studentname>PREETH RAJ</studentname>
+<marks>53</marks>
+</cd>
+<cd>
+<studentname>ADARSH</studentname>
+<marks>83</marks>
+</cd>
+</catalog

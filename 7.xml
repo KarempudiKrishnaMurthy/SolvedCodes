@@ -1,0 +1,36 @@
+<class>
+<student>
+<firstname> KRISHNA MURTHY</firstname>
+<lastname>Karempudi</lastname>
+<address>
+<street> Main Road</street>
+<city>HYD</city>
+<email>km7829@gmail.com</email>
+<phoneno>9502511226</phoneno>
+</address>
+</student>
+<student>
+<name>
+<firstname>anna</firstname>
+<lastname>silver</lastname>
+</name>
+<address>
+<street>100feet Road</street>
+<city>Chennai</city>
+<email>sil@gmail.com</email>
+<phone>9856294685</phone>
+</address>
+<student>
+<name>
+<firstname>Sai</firstname>
+<lastname>Ram</lastname>
+</name>
+<address>
+<street>Major Road</street>
+<city>Mumbai</city>
+<email>sai@gmail.com</email>
+<phone>6975024575</phone>
+</address>
+</student>
+</student>
+</class>
